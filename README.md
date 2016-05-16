@@ -8,4 +8,4 @@ Chức năng ứng dụng:
 * Đưa ra lời khuyên về công việc cần làm cho từng con bò cụ thể dựa trên: ngày sinh, giống bò, mục đích nuôi, nguồn gốc (bò nhà sinh sản, bò mua về).
 * Kho tài liệu: mọi người có thể vào kho tài liệu để tra cứu kiến thức về công việc chăn nuôi bò.
 * Diễn đàn hỏi đáp: đây là diễn đàn dành cho tất cả mọi người có thể đặt câu hỏi, trả lời những thắc mắc dựa trên kiến thức và kinh nghiệm bản thân.
-* Chợ bò: giúp môi người có thể bán được bò của mình.
+* Chợ bò: giúp mọi người có thể bán được bò của mình.
